@@ -8,7 +8,10 @@ productos = {'8475HD':['HP', 15.6, '8GB', 'DD', '1T', 'Intel Core i5', 'Nvidia G
 'UWU131HD':['Dell', 15.6, '8GB', 'DD', '1T', 'AMD Ryzen 3', 'Nvidia GTX1050'], 
 }
 
-primer_cambio=1
+# Primer cambio para ver conexion!
+
+# 
+
 
 
 # productos = {modelo : [marca, pantalla, RAM, disco, GB de DD, procesador, video ...]}
