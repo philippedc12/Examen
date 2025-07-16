@@ -10,7 +10,7 @@ productos = {'8475HD':['HP', 15.6, '8GB', 'DD', '1T', 'Intel Core i5', 'Nvidia G
 
 # Primer cambio para ver conexion!
 
-# 
+# Con ayuda de copilot vi como funciona puede funcionar correctamente cada funcion
 
 
 
@@ -26,6 +26,7 @@ stock = {'8475HD':[387990,10],
 'UWU131HD':[349990,1], 
 'FS1230HD':[249990,0],
 }
+
 def stock_marca(): 
     marca = input('Ingrese marca a consultar: ').lower()
     encontrados = False
