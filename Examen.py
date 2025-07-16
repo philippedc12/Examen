@@ -7,6 +7,7 @@ productos = {'8475HD':['HP', 15.6, '8GB', 'DD', '1T', 'Intel Core i5', 'Nvidia G
 '342FHD':['Acer', 15.6, '8GB', 'DD', '1T', 'AMD Ryzen 7', 'Nvidia GTX1050'],
 'UWU131HD':['Dell', 15.6, '8GB', 'DD', '1T', 'AMD Ryzen 3', 'Nvidia GTX1050'], 
 }
+cambio
 # productos = {modelo : [marca, pantalla, RAM, disco, GB de DD, procesador, video ...]}
 # (DD)= Mecanico y (SSD)= Estado solido
 stock = {'8475HD':[387990,10], 
