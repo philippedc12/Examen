@@ -12,7 +12,8 @@ productos = {'8475HD':['HP', 15.6, '8GB', 'DD', '1T', 'Intel Core i5', 'Nvidia G
 
 # Con ayuda de copilot vi como funciona puede funcionar correctamente cada funcion
 
-
+ultimo_cambio=3
+# ya se vieron las equivocaciones durante el examen y su correccion
 
 # productos = {modelo : [marca, pantalla, RAM, disco, GB de DD, procesador, video ...]}
 # (DD)= Mecanico y (SSD)= Estado solido
